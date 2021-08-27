@@ -1,0 +1,21 @@
+.barcontainer {
+   position: absolute;
+    /* top:50vh; */
+    left:200px;
+}
+.numbar{
+    width:3px;
+    margin:0 1px;
+     display:inline-block;
+}
+.button {
+   
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    margin:10px 3px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
